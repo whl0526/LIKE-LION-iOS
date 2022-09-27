@@ -8,7 +8,7 @@ protocol Device {
 
 class MyComputer : Device {
     //여러분의 구현 코드는 여기에...
-    var colors = "grey"
+    var myColor = "grey"
     var kind: String = ""
     var dateOfPurchase: String = ""
     var price : Int = 0
@@ -26,10 +26,10 @@ class MyComputer : Device {
     
     var color: String{
         get{
-            return colors
+            return myColor
         }
         set{
-            colors = newValue + colors
+            myColor = newValue + myColor
         }
     }
     
@@ -42,9 +42,9 @@ class MyComputer : Device {
         return "name : \(name), color: \(color)"
     }
 }
-    var myMac: MyComputer = MyComputer(kind:"MacBook")
-    myMac.dateOfPurchase = "2022-04-01"
-    myMac.price = 100
-    print("information: \(myMac.displayComputer())")
-    myMac.color = "Space"
-    print(myMac.buildMemoText())
+var myMac: MyComputer = MyComputer(kind:"MacBook")
+myMac.dateOfPurchase = "2022-04-01"
+myMac.price = 100
+print("information: \(myMac.displayComputer())")
+myMac.color = "Space"
+print(myMac.buildMemoText())
