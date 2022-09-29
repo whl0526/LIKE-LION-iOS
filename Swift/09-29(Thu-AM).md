@@ -1,4 +1,4 @@
-![1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d479559-b5be-400d-9034-3095fe0951e8/1.png)
+![1 (1)](https://user-images.githubusercontent.com/67450169/193070256-dd631d8a-e531-481d-8822-f14f7adc1864.png)
 
 ## 🔸구조체
 
@@ -18,20 +18,18 @@
 - 구조체 선언은 클래스와 비슷하지만, **class**키워드를 사용하는 대신에 **struct** 키워드를 사용한다는 점이 다르다.
 - 예를 들어 다음은 String 변수와 초기화, 메서드로 구성된 간단한 구조체를 선언한다.
 
-![3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ac65edcd-9ea1-4304-b1a4-26aa78517de1/3.png)
-
+![3](https://user-images.githubusercontent.com/67450169/193070276-bd3a2e59-87e8-4530-961f-41bea1c97b20.png)
 ---
 
 - 앞의 구조체 선언부와 동일한 클래스 선언부를 비교해보자
 - class 키워드 대신에 struct 키워드를 사용했다는 것을 제외하면 두 개의 선언부는 동일하다.
     
-    ![5.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f2b2e65-babf-4025-925b-cd7033bb83db/5.png)
+   ![5](https://user-images.githubusercontent.com/67450169/193070287-cf527950-20af-4572-af35-30963a3d1fde.png)
     
     ---
     
 - 각각의 인스턴스를 생성할 때도 동일한 문구를 사용
-
-![7.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f7d03f9-1d89-4681-a020-760ff3569953/7.png)
+![7 (1)](https://user-images.githubusercontent.com/67450169/193070301-41c55f27-b887-457d-9029-7eb9b13a9c99.png)
 
 ---
 
