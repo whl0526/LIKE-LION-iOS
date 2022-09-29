@@ -55,7 +55,7 @@
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cddad321-e9ec-4339-a63a-3520b546d439/Untitled.png)
+![Untitled (16)](https://user-images.githubusercontent.com/67450169/193071735-86d2290c-eac7-4496-a603-c1dbaa7b9385.png)
 
 ![11](https://user-images.githubusercontent.com/67450169/193070668-39a9e72c-a815-4728-8636-cde645044203.png)
 
