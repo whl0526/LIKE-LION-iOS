@@ -245,11 +245,11 @@ print(myStruct2Mac.kind)
 
 ---
 
-![40.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/46d69c77-5b43-4af7-8adf-33ab3fddc41b/40.png)
+![40 (1)](https://user-images.githubusercontent.com/67450169/193071248-b30e001c-929e-4c42-9d08-b2590b311925.png)
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5874d44a-f14b-4477-ab84-8479a121b894/Untitled.png)
+![Untitled (15)](https://user-images.githubusercontent.com/67450169/193071259-91f3db91-ff5d-4e62-a930-264f40c13881.png)
 
 ---
 
@@ -264,8 +264,7 @@ print(myStruct2Mac.kind)
 - 실제로, 미리 정의된 프로퍼티 래퍼는 나중에 설명할 SwiftUI 작업을 할 때 광범위하게 사용된다.
 
 ---
-
-![43.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71f3ae62-985f-4e61-8285-184b8f9a0fd8/43.png)
+![43](https://user-images.githubusercontent.com/67450169/193071280-fd5d482b-3e94-4610-b997-5c085935f571.png)
 
 ```swift
 import Foundation
