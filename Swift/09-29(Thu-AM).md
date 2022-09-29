@@ -57,19 +57,18 @@
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cddad321-e9ec-4339-a63a-3520b546d439/Untitled.png)
 
-![11.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f82fea0-c822-48a9-a6c1-b70380cb3107/11.png)
+![11](https://user-images.githubusercontent.com/67450169/193070668-39a9e72c-a815-4728-8636-cde645044203.png)
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74ea9993-8e79-42bb-aee7-11434a83fcae/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/67450169/193070683-bd670e3b-0f20-4588-aab8-acfc147a12ec.png)
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ad9670f6-a193-471b-9709-844a490a75d9/Untitled.png)
+![Untitled (2)](https://user-images.githubusercontent.com/67450169/193070699-d04134b6-901d-4d2b-b6e7-4275ee3f3e86.png)
 
 ---
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d4f406f-875d-4168-b215-3b18a8c660a2/Untitled.png)
+![Untitled (3)](https://user-images.githubusercontent.com/67450169/193070705-00d3fb50-f992-4da7-80b8-4d03d294f19b.png)
 
 - 지금까지 봤던 값 타입과 참조 타입에 대한 차이점 뿐만 아니라 구조체는 클래스에 있던 상속이나 하위클래스를 지원하지 않는다.
 - 다시 말해, 하나의구조체가 다른 구조체에 상속될 수 없다는 뜻이다.
@@ -84,19 +83,19 @@
 
 ## 🔸다시 살펴보기
 
-![15.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63cfbdb9-68bc-4ab8-919c-683c3ae437c7/15.png)
+![15](https://user-images.githubusercontent.com/67450169/193070732-c4ca15b6-f034-4376-8598-68258878e1a4.png)
 
 ## 🔸프로퍼티 및 메서드 구현
 
-![24.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2134f448-cf0b-437a-8c40-2b3a629e3e90/24.png)
+![24](https://user-images.githubusercontent.com/67450169/193070744-1e8a91e3-d6f2-4b67-a3b4-968b692fd099.png)
 
 ## 🔸구조체 사용
 
-![18.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4d8f18e-ae22-475c-bb56-22c35ae82ebc/18.png)
+![18](https://user-images.githubusercontent.com/67450169/193070767-2eb99e49-5386-40a5-924b-fdd9b122f020.png)
 
 ## 🔸학생 구조체 만들어보기
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de17eda3-91a2-4b59-8498-33fe499f7c54/Untitled.png)
+![Untitled (4)](https://user-images.githubusercontent.com/67450169/193070793-a0dd4be8-6e61-40ae-bf9f-c424b5a08b4a.png)
 
 ## 🔸요약
 
@@ -110,9 +109,9 @@
 
 ## 🔸구조체 Activity
 
-![22.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1f6dc3c-859b-41a3-9b53-bc57dc1c8307/22.png)
+![22](https://user-images.githubusercontent.com/67450169/193070803-5eb48616-d169-4c78-ab39-f8f26f5789cf.png)
 
-![23.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/139f3200-3019-4c94-9a6c-f41fdf6e97fc/23.png)
+![23](https://user-images.githubusercontent.com/67450169/193070816-9e736965-6e56-43c9-99df-275a8dd9d3db.png)
 
 ```swift
 import Foundation
@@ -197,43 +196,39 @@ print(myStruct2Mac.kind)
 
 ## 🔸간단한 프로퍼티 래퍼 예제(흘려들어라!)
 
-![26.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/686ea6f0-9ab3-40bf-babf-a9cd270c7243/26.png)
+![26](https://user-images.githubusercontent.com/67450169/193070854-8253fa5e-f1c9-423d-88b9-de1c6332b3a3.png)
+
+---
+![27](https://user-images.githubusercontent.com/67450169/193070860-4be53b79-d0c2-4d92-bc82-8d52f2b90ac4.png)
 
 ---
 
-![27.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c9fadef-1f61-4983-8c76-f5a75af1c7ec/27.png)
+![Untitled (5)](https://user-images.githubusercontent.com/67450169/193070872-0e01af71-7358-4a98-8c2e-486084581575.png)
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e48f0314-2802-47b4-8010-1c2fda9b7664/Untitled.png)
+![Untitled (6)](https://user-images.githubusercontent.com/67450169/193070881-cf8a4d8c-91f6-4eb7-868a-5face5f0e74b.png)
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ed71846-77a7-47ac-bc69-46d3ef03bfe9/Untitled.png)
+![Untitled (7)](https://user-images.githubusercontent.com/67450169/193070893-1771ca25-3de0-423c-910a-49633910c412.png)
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/81821042-64f3-4bd7-b844-c9cf91f28bbc/Untitled.png)
+![Untitled (8)](https://user-images.githubusercontent.com/67450169/193070913-41e8bcc1-defe-4afa-b23b-52bb8aa6f716.png)
 
 ---
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c321b56a-efb4-467b-bf97-9ec4e025725e/Untitled.png)
-
----
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d74656c-9f13-467e-b3dc-c1bd69ec4da9/Untitled.png)
+![Untitled (9)](https://user-images.githubusercontent.com/67450169/193070938-cd55ff5e-d193-47f8-870c-5db495900750.png)
 
 ## 🔸여러 변수와 타입 지원하기
+![Untitled (10)](https://user-images.githubusercontent.com/67450169/193070957-8cbd73c4-b9fc-4128-afa7-a73bc55b77fe.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c87e31b-cc0d-454b-95af-c1006f974c63/Untitled.png)
+---
+![Untitled (11)](https://user-images.githubusercontent.com/67450169/193070968-dbc39ab2-1c14-4a9c-adee-51afd89d0f5a.png)
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ddaa13b2-0250-469f-9ed8-0702711cd3ec/Untitled.png)
-
----
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c476629c-09e9-43f5-9ee0-6509aea0a11f/Untitled.png)
+![Untitled (12)](https://user-images.githubusercontent.com/67450169/193070977-c633f6b2-7685-48b5-88c8-cf6e6c2c22e4.png)
 
 - 현재 구현된 프로퍼티 래퍼는 Int 값만 가지고 작업한다.
 - 만약 타입의 다른 값과 비교할 수 있는 모든 변수 타입과 함께 사용할 수 있다면 더 유용하게 될 것이다.
@@ -246,7 +241,7 @@ print(myStruct2Mac.kind)
 
 ## 🔸여러 변수와 타입 지원하기
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09401488-f31b-448e-9814-b9a29d300aa9/Untitled.png)
+![Untitled (13)](https://user-images.githubusercontent.com/67450169/193071017-c859245f-8b52-4db8-8c0a-55c4efb74cbc.png)
 
 ---
 
