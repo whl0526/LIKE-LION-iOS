@@ -1,8 +1,7 @@
 
 - 
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f39e63c-2535-472c-ba07-014d8c3a345f/Untitled.png)
-    
+   ![Untitled - 2022-10-06T165354 781](https://user-images.githubusercontent.com/67450169/194249788-3a2fcba7-dcd1-4e11-9a92-00dfeec0049c.png)
     ## 🔸Swift 5.7 신기능
     
     ```swift
@@ -200,7 +199,7 @@
     
     ## 출력값
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b71c6b12-6517-48e3-b59e-c2cb055a0a58/Untitled.png)
+  ![Untitled - 2022-10-06T165400 888](https://user-images.githubusercontent.com/67450169/194249808-730c9b08-9a9c-4b09-aec2-c0225b6cdd4f.png)
     
     ---
     
@@ -454,17 +453,16 @@
     
     ---
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b15b41b4-fede-47d3-9151-b0de4ae7c1de/Untitled.png)
+   ![Untitled - 2022-10-06T165424 615](https://user-images.githubusercontent.com/67450169/194249852-da40029c-8735-4926-8d8f-1e221e29207f.png)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74d1b9fb-5455-44b5-b042-14226c1b1589/Untitled.png)
+   ![Untitled - 2022-10-06T165425 565](https://user-images.githubusercontent.com/67450169/194249873-60a30c43-458b-4535-85c6-08d3e63c259f.png)
+    ---
+    
+    ![Untitled - 2022-10-06T165427 977](https://user-images.githubusercontent.com/67450169/194249902-d824e069-d8ae-4fa4-867e-248e73189e05.png)
     
     ---
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef9b3ee3-4de7-4d8d-ae0a-75867312cbcd/Untitled.png)
-    
-    ---
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3d80a5c-86af-46a6-9847-acc2a82cef91/Untitled.png)
+   ![Untitled - 2022-10-06T165428 988](https://user-images.githubusercontent.com/67450169/194249924-056f02d6-1b97-4c91-af3d-819e3566f0b1.png)
     
     ---
     
