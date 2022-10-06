@@ -1,8 +1,7 @@
 
 - 10-06(목-**Objective-C**)
     
-       ![Untitled - 2022-10-06T174114 526](https://user-images.githubusercontent.com/67450169/194265205-14a78013-81c6-4186-ac1b-950b889b6a2b.png)
-
+![Untitled - 2022-10-06T174114 526](https://user-images.githubusercontent.com/67450169/194265687-f4aec159-f3f9-4d87-b96b-4377d6aa740c.png)
     ## 🔸개요
     
     Overview
