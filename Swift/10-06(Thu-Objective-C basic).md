@@ -1,8 +1,8 @@
 
 - 10-06(목-**Objective-C**)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/903acd30-dd25-4b62-af94-2ab42659a32f/Untitled.png)
-    
+       ![Untitled - 2022-10-06T174114 526](https://user-images.githubusercontent.com/67450169/194265205-14a78013-81c6-4186-ac1b-950b889b6a2b.png)
+
     ## 🔸개요
     
     Overview
@@ -110,7 +110,7 @@
     - 다음 목록은 Objective-C의 일부 예약어를 보여준다.
     - 이러한 예약어는상수나 변수 또는 기타 식별자 이름으로 사용할 수 없습니다.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/092c6cc0-ccad-44cf-bde4-01dd59c5bccf/Untitled.png)
+   ![Untitled - 2022-10-06T174118 085](https://user-images.githubusercontent.com/67450169/194265242-bdd5dc4e-9379-4fde-9306-3a69cdb0f77e.png)
     
     ## 🔸데이터 타입
     
@@ -118,25 +118,24 @@
     - 변수의 타입은 저장공간에서 차지하는 공간과 저장된 비트 패턴이 해석되는 방식을 결정한다.
     - objective-c의 타입은 다음과 같이 분류할 수 있다.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/250ad0e3-9470-4f22-977c-5a2059f585bc/Untitled.png)
-    
+    ![Untitled - 2022-10-06T174119 608](https://user-images.githubusercontent.com/67450169/194265256-f6e608a7-b7cc-4394-b4b6-57c627065763.png)
     ---
     
     ## 🔸정수 타입
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dedc9268-8ab7-4220-92c9-2a60c8316b65/Untitled.png)
+    ![Untitled - 2022-10-06T174120 828](https://user-images.githubusercontent.com/67450169/194265267-0ada9724-d232-42ea-81e4-90472fcd79d3.png)
     
     ## 🔸부동소수점 타입
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4d16b0d-12a1-49b3-a92f-71473d3072b2/Untitled.png)
+   ![Untitled - 2022-10-06T174122 606](https://user-images.githubusercontent.com/67450169/194265281-ffec07b5-bebf-452f-a22f-84936fbaee3b.png)
     
     ## 🔸void 타입
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f981d29-69af-4c8b-a75a-ce3063e30767/Untitled.png)
+   ![Untitled - 2022-10-06T174124 122](https://user-images.githubusercontent.com/67450169/194265291-399d5ca9-8efd-40bb-8142-b43424e3915c.png)
     
     ---
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/608be339-7602-4ade-a8d3-6241436cff16/Untitled.png)
+    ![Untitled - 2022-10-06T174125 504](https://user-images.githubusercontent.com/67450169/194265300-24eacaa5-b62e-4f0e-a02e-059e7ce81e6f.png)
     
     ```objectivec
     char : 1
@@ -161,8 +160,7 @@
     - 변수 정의는 컴파일러에게 변수에 대한 저장소를 생성할 위치와 양을 알려주는 것을 의미한다.
     - 변수 정의는 데이터 유형을 지정하고 다음과 같이 해당 유형의 하나 이상의 변수 목록을 포함한다.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bab99d70-1008-4846-bce9-c1a0949f010e/Untitled.png)
-    
+![Untitled - 2022-10-06T174127 744](https://user-images.githubusercontent.com/67450169/194265320-84303fe3-4567-4942-91b4-b6df8cfb0bc3.png)    
     ---
     
     - 변수는 선언에서 초기화 할 수 있습니다.
@@ -171,7 +169,7 @@
         - 모든 바이트 값은 0
     - 다른 모든 변수의 초기 값을 정의되지 않습니다.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dc018236-c9ea-45ce-b506-a9a54500d533/Untitled.png)
+  ![Untitled - 2022-10-06T174129 556](https://user-images.githubusercontent.com/67450169/194265337-1c22f4c5-31f1-49cf-92c9-70fb192bf582.png)
     
     ---
     
@@ -182,20 +180,20 @@
     - 변수 선언은 여러 파일을 사용하고 파일 중 하나에 변수를 정의할 때 유용하다
     - 이 파일은 프로그램을 연결할 때 사용할 수 있다. **extern** 키워드를 사용하여 어느 곳에서나 변수를 선언한다.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/849e1ec9-7853-4658-ad82-9654fd0969dd/Untitled.png)
+   ![Untitled - 2022-10-06T174131 119](https://user-images.githubusercontent.com/67450169/194265349-238ca074-ae9e-4a67-b106-619eab33b4d2.png)
     
     ---
     
     - 선언 시 함수 이름을 제공하고 실제 정의가 다른 곳에서 제공될 수 있는 함수 선언에도 동일한 개념이 적용됩니다.
     - 다음 예제에서는 C함수를 사용하여 설명하며 objective-c는 c 스타일 함수도 지원합니다.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9daac8d2-63ba-49e3-a591-4ba47302b118/Untitled.png)
+    ![Untitled - 2022-10-06T174132 622](https://user-images.githubusercontent.com/67450169/194265358-1731cbce-95e7-4576-a57f-05fb6568c6d0.png)
     
     ---
     
     ## 🔸L값 표현식 & R값 표현식
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e5299414-a5f7-4c52-a60b-dcdf5aa583f2/Untitled.png)
+    ![Untitled - 2022-10-06T174134 150](https://user-images.githubusercontent.com/67450169/194265364-ca629982-671a-47f7-8e4b-fa7a4f17af11.png)
     
     ## 🔸상수
     
@@ -212,7 +210,7 @@
     - 정수 리터럴은 unsigned 및 long에 대해 각각 U와 L의 조합인 접미사를 가질 수도 있습니다. 접미사는 대문자 또는 소문자가 될 수 있으며 임의의 순서가 될 수 있습니다.
     - **다음의 정수 리터럴의 몇가지 예이다.**
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/858fd316-dcf7-47d6-b051-8c8ad1b471fd/Untitled.png)
+   ![Untitled - 2022-10-06T174135 613](https://user-images.githubusercontent.com/67450169/194265387-94e63d29-6fb1-4cc0-ad9b-1f8e1cb6e58d.png)
     
     ## 🔸부동 소수점 리터럴
     
@@ -220,8 +218,7 @@
     - 소수점 형식을 사용하여 나타낼 때는 소수점, 지수 또는 둘다를 포함해야 하고 지수 형식을 사용하여 나타낼 때는 정수 부분, 소수 부분 또는 둘다를 포함해야 합니다. 부호 있는 지수는 e 또는 E로 시작합니다.
     - 다음은 부동 소수점 리터럴의 몇가지 예입니다.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3e31a47e-8cb7-4d39-9ac4-827371cc5238/Untitled.png)
-    
+    ![Untitled - 2022-10-06T174136 994](https://user-images.githubusercontent.com/67450169/194265400-f729a7ac-6253-40af-a58d-06b60b0ee600.png)
     ---
     
     ## 🔸문자상수
@@ -230,8 +227,7 @@
     - 문자 리터럴은 일반 문자(예:’x’), 이스케이프 시퀀스(예:’\t’) 또는 범용 문자(예:’\u02C0’)일 수 있따.
     - C에서 백슬래시로 이어지는 특정 문자는 특별한 의미를 가지며 개행(\n) 또는 탭(\t)과 같이 표시하는데 사용됩니다. 여기에 이러한 이스케이프 시퀀스 코드의 일부 목록이 있습니다.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5a8ae056-5100-46bc-8555-3c1a1e698ae1/Untitled.png)
-    
+    ![Untitled - 2022-10-06T174138 598](https://user-images.githubusercontent.com/67450169/194265412-114cff1b-47d6-4f6c-a6db-9ababd156d2d.png)
     ---
     
     ## 🔸문자상수
@@ -265,7 +261,7 @@
     
     const type variable = value;
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/65b8ff68-6d40-4ef5-b93e-1142e54c6c69/Untitled.png)
+    ![Untitled - 2022-10-06T174140 897](https://user-images.githubusercontent.com/67450169/194265428-e8532ac6-040f-42d8-834b-959756c5d2c3.png)
     
     ## 🔸연산자
     
@@ -276,7 +272,7 @@
     
     - 변수 A가 **10**을 보유하고 변수 B가 **20**을 보유하고 있다고 가정하
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/377a95d1-8727-4a58-b2ae-83c9bb7a3d10/Untitled.png)
+    ![Untitled - 2022-10-06T174142 594](https://user-images.githubusercontent.com/67450169/194265443-6a14bff9-bb69-4590-a257-802ba3e2725b.png)
     
     ---
     
@@ -284,39 +280,38 @@
     
     - 변수 A가 **10**을 보유하고 변수 B가 **20**을 보유하고 있다고 가정하면
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0044a83d-03f8-4220-b382-7ecbbf508e6f/Untitled.png)
+   ![Untitled - 2022-10-06T174144 143](https://user-images.githubusercontent.com/67450169/194265449-4fd3e2b0-7ba4-4dc3-9f1b-a83a2f71e743.png)
     
     ## 🔸논리 연산자
     
     - 변수 A가 **1**을 보유하고 변수 B가 **0**을 보유하고 있다고 가정하면
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/61170f29-6732-46f9-a2a2-a686d893ea57/Untitled.png)
+   ![Untitled - 2022-10-06T174145 471](https://user-images.githubusercontent.com/67450169/194265461-6fedb2f4-4e3c-4a41-95cf-267612d879bb.png)
     
     ## 🔸비트 연산자
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec1f025b-57f7-46d1-8c48-f7168518f092/Untitled.png)
+   ![Untitled - 2022-10-06T174147 183](https://user-images.githubusercontent.com/67450169/194265473-dda45d3b-dbb0-4c79-9c61-e1c85ff47525.png)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3a2f6101-326b-4376-ab83-f3a253e9695a/Untitled.png)
+   ![Untitled - 2022-10-06T174148 817](https://user-images.githubusercontent.com/67450169/194265482-7f29369d-ab82-4b5e-b4f8-c00cce9e87d0.png)
     
     ## 🔸할당 연산자
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a705938-ec59-469a-b37b-c588f28f096a/Untitled.png)
+    ![Untitled - 2022-10-06T174150 752](https://user-images.githubusercontent.com/67450169/194265493-909748e9-15f2-43a8-b6c4-088f9a30f709.png)
     
     ## 🔸sizeof와 삼항 연산자
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f351ec9f-447c-4f3f-90cd-5df4ac6dbe67/Untitled.png)
+   ![Untitled - 2022-10-06T174152 097](https://user-images.githubusercontent.com/67450169/194265503-7e04ba07-362f-44f1-8bcb-752a9efa7aa5.png)
+    ---
+    
+   ![Untitled - 2022-10-06T174153 492](https://user-images.githubusercontent.com/67450169/194265523-39cc65e5-a9e9-4075-9481-cc57fbf0297f.png)
     
     ---
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6bc5af7e-3ad0-4991-9d14-6ad343d13530/Untitled.png)
+   ![Untitled - 2022-10-06T174155 545](https://user-images.githubusercontent.com/67450169/194265532-02a75080-a91c-4761-8f9e-7184e13558c9.png)
     
     ---
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89e01db9-fa3d-4ab5-b06f-905d432118bd/Untitled.png)
-    
-    ---
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4de7d827-3ec8-4e53-b8c1-3c1bc62644ce/Untitled.png)
+   ![Untitled - 2022-10-06T174158 118](https://user-images.githubusercontent.com/67450169/194265549-f1d86a04-bdea-4880-973e-317c7a75cbae.png)
     
     ---
     
@@ -357,8 +352,7 @@
     
     ## 🔸반복문의 제어문
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39c1c567-c2f6-465d-9577-381e4b7c260f/Untitled.png)
-    
+    ![Untitled - 2022-10-06T174159 868](https://user-images.githubusercontent.com/67450169/194265576-417d01cc-1882-4344-a2c9-4a5ea396532f.png)
     ```objectivec
     #import <Foundation/Foundation.h>
     
@@ -393,11 +387,11 @@
     
     ## 🔸무한 반복
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/531e9a0f-513d-42e4-902e-27dd609eeebc/Untitled.png)
+   ![Untitled - 2022-10-06T174201 741](https://user-images.githubusercontent.com/67450169/194265593-88b662e9-566a-42a7-a64c-f4560a43074b.png)
     
     ## 🔸조건문
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e318461-bd95-4f16-9dbf-72d08375e68a/Untitled.png)
+   ![Untitled - 2022-10-06T174203 233](https://user-images.githubusercontent.com/67450169/194265602-1019fc6e-80af-466e-ac7c-489b24b938e2.png)
     
     **0 또는 null 이면 false 값**
     
@@ -432,4 +426,4 @@
     - 우리는 이전 장에서 본 조건부 연산자 ? : 를  if…else 문을 대체하는데 사용할 수 있습니다.
     - ? : 연산자는 다음과 같은 일반적인 형태를 가지고 있습니다.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/43cd14fd-3f3c-4dcd-a3d0-3dbcf7a4e16d/Untitled.png)
+   ![Untitled - 2022-10-06T174205 074](https://user-images.githubusercontent.com/67450169/194265614-cdd610e2-6f80-4c8e-839f-802da6db19c6.png)
