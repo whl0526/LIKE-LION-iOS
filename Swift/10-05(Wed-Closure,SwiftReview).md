@@ -1,5 +1,4 @@
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f39e63c-2535-472c-ba07-014d8c3a345f/Untitled.png)
-
+![Untitled - 2022-10-06T164040 647](https://user-images.githubusercontent.com/67450169/194247060-efb162ad-4e85-45b3-baef-70ccf8c8e774.png)
 ## 🔸Swift 5.7 신기능
 
 ```swift
@@ -64,8 +63,7 @@ sayHello(name: nil)
 - 다시 말해, **functionB**는 counter 변수를 잡고있다 또는 가두고 있다 라고 말할수 있으므로 전통적인 컴퓨터 공학 용어인 클로저로 간주한다.
 - Swift에서는 **클로저**와 **클로저 표현식**용어가 혼용되기 시작했지만, 어쨌든 둘 다 지원한다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/50ae51c0-145f-42c8-83f3-b696c41b3b55/Untitled.png)
-
+![Untitled - 2022-10-06T164043 648](https://user-images.githubusercontent.com/67450169/194247077-fd010be4-866b-4abd-974d-2ab99ea9e9bf.png)
 ```swift
 func functionA() -> Int {
     
@@ -117,19 +115,15 @@ let result = myClosure()
 print("\(result)")
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f9cbf3d-c905-4fc6-83f1-b7173b5fe4b6/Untitled.png)
-
+![Untitled - 2022-10-06T164045 614](https://user-images.githubusercontent.com/67450169/194247096-f01675cf-96e9-445e-a5b5-a8d05971b7a3.png)
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/735200a4-3429-4c1b-8aed-6469424b2fd4/Untitled.png)
+![Untitled - 2022-10-06T164047 234](https://user-images.githubusercontent.com/67450169/194247115-15605220-a025-4278-9372-9126058482af.png)
+---
+![Untitled - 2022-10-06T164048 967](https://user-images.githubusercontent.com/67450169/194247125-db16850c-e7f1-43ad-b6c2-1801d92768a6.png)
 
 ---
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c2101d6-af80-4436-91ad-07dcf7e8bef9/Untitled.png)
-
----
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/70ec13dd-0cb3-4ed9-9ba8-3c3c98a14890/Untitled.png)
+![Untitled - 2022-10-06T164050 433](https://user-images.githubusercontent.com/67450169/194247136-2b2fcfd4-cb78-4d06-ac67-91407c64fa06.png)
 
 ---
 
@@ -163,15 +157,14 @@ print(reverseNames)
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e5476adc-b5ad-4901-80f2-ef69f6b711dc/Untitled.png)
+![Untitled - 2022-10-06T164052 332](https://user-images.githubusercontent.com/67450169/194247154-b059bc7b-b1bf-4e29-adb1-5af008a2e3b1.png)
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22ea9b61-9b60-48a8-abcd-3337b421a9a8/Untitled.png)
-
+![Untitled - 2022-10-06T164054 082](https://user-images.githubusercontent.com/67450169/194247162-19f51cfa-6b4f-4bb0-9031-db2ff18e9b88.png)
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4441fdbc-23c0-481d-9dc9-a9929b84179d/Untitled.png)
+![Untitled - 2022-10-06T164055 727](https://user-images.githubusercontent.com/67450169/194247175-4ca80b0f-fe4c-4f7a-83e9-26cf68893020.png)
 
 ---
 
@@ -224,18 +217,16 @@ print(reverseNames)
 ```
 
 ## 출력값
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b71c6b12-6517-48e3-b59e-c2cb055a0a58/Untitled.png)
+![Untitled - 2022-10-06T164057 991](https://user-images.githubusercontent.com/67450169/194247192-2faa3f0d-a7db-43dd-9d3b-5966a5dba1b2.png)
 
 ---
 
 ## 🔸오후 수업
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05c54940-a7fc-4e6a-9246-323ba35fa06d/Untitled.png)
+![Untitled - 2022-10-06T164059 088](https://user-images.githubusercontent.com/67450169/194247201-45794c3a-cc96-4709-a259-cdaf02da461d.png)
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ab1dd76-03cb-42c7-a3cd-f14b06898031/Untitled.png)
+![Untitled - 2022-10-06T164100 593](https://user-images.githubusercontent.com/67450169/194247213-4d260631-c817-4f7a-b0bf-4228b0827adf.png)
 
 ```swift
 // Array의 map 매소드 예제
@@ -339,26 +330,22 @@ print("\(strings)")
 ---
 
 ## 🔸그냥 읽고 지나감!!!
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf24a789-956a-44d2-bfb3-2d2749592860/Untitled.png)
-
----
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a3413931-80b1-4da7-b228-311a9a877089/Untitled.png)
+![Untitled - 2022-10-06T164103 343](https://user-images.githubusercontent.com/67450169/194247236-5908d4e8-9074-4306-82e7-4ff36e95f4a4.png)
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d4239b5-466d-45c4-82f0-e4b5325bcef5/Untitled.png)
+![Untitled - 2022-10-06T164104 437](https://user-images.githubusercontent.com/67450169/194247245-7484a834-290d-4376-995f-dc8ff915c5b5.png)
+
+---
+![Untitled - 2022-10-06T164107 490](https://user-images.githubusercontent.com/67450169/194247253-6527f5aa-ca75-4141-8a10-a93825ded8c4.png)
 
 ---
 
 ## 🔸캡쳐값
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dcc4f65b-23c6-4aea-a410-a202614b2537/Untitled.png)
+![Untitled - 2022-10-06T164110 914](https://user-images.githubusercontent.com/67450169/194247271-b84b9494-cd95-4226-8539-fa2e99659d0e.png)
 
 ---
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/154de8a4-75b6-4b1e-9225-16adc5f7e61c/Untitled.png)
+![Untitled - 2022-10-06T164111 847](https://user-images.githubusercontent.com/67450169/194247275-73a6d4fc-042a-432f-bb8c-d5027fb8b179.png)
 
 ---
 
@@ -383,16 +370,12 @@ print("\(increFunc())") // 20 + 10 = 30
 ```
 
 ---
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/95bbad81-81a7-448a-93c1-782e2cb8dec4/Untitled.png)
+![Untitled - 2022-10-06T164118 607](https://user-images.githubusercontent.com/67450169/194247307-2a120929-8ad0-415d-8497-f55b69b2cfc8.png)
+---
+![Untitled - 2022-10-06T164120 233](https://user-images.githubusercontent.com/67450169/194247316-ec90f806-d331-4692-b56c-d7c562b25691.png)
 
 ---
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/531e3501-4988-4698-8616-129caf98034f/Untitled.png)
-
----
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e170ff6f-2bf1-4200-bdb6-636955b91671/Untitled.png)
+![Untitled - 2022-10-06T164122 521](https://user-images.githubusercontent.com/67450169/194247323-c4f6243b-0861-434c-a64b-8b2eda67af19.png)
 
 ---
 
@@ -442,15 +425,13 @@ print("\(myIncreFuncTen())") // 0 + 10 = 1
 
 ## 🔸이스케이프 클로저
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9a4b9775-5591-4fc4-a237-f5d699afd40e/Untitled.png)
+![Untitled - 2022-10-06T164124 334](https://user-images.githubusercontent.com/67450169/194247336-cef17d51-eb53-493c-bb4e-e075a1b4aad7.png)
 
 ---
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd583c9d-7b01-42a6-b9d7-907cf1010034/Untitled.png)
+![Untitled - 2022-10-06T164125 966](https://user-images.githubusercontent.com/67450169/194247345-430a327b-b577-458d-9a3e-5dcbc08e4dba.png)
 
 ---
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4911713d-06f6-43c6-9a6f-acfdb384517d/Untitled.png)
+![Untitled - 2022-10-06T164131 362](https://user-images.githubusercontent.com/67450169/194247355-018b5e1f-555c-4c67-b2b0-a9459b4d3cf2.png)
 
 ```swift
 var completionHandlers: [() -> Void] = []
