@@ -18,12 +18,10 @@ Functions
 
 ## 🔸메서드 정의
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09307175-cbdd-4a79-a418-01aba870b29d/Untitled.png)
-
+![Untitled (1)](https://user-images.githubusercontent.com/67450169/194752393-fe357e56-54a9-4256-b003-20207637b3c3.png)
 ## 🔸메서드 정의
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/959cab51-9638-4352-b63e-6119ee9ffcb4/Untitled.png)
-
+![Untitled (2)](https://user-images.githubusercontent.com/67450169/194752396-2df1ebf3-da99-42ae-b129-32ecdc6d4a22.png)
 ```objectivec
 #import <Foundation/Foundation.h>
 
@@ -57,16 +55,13 @@ int main (int argc, const char * argv[])
 
 ## 🔸메서드 선언
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82ca8b8b-6bcb-42a5-b5d2-67899f88b38d/Untitled.png)
-
+![Untitled (3)](https://user-images.githubusercontent.com/67450169/194752401-5a694d4d-88c6-4c8f-9d23-7947661919d8.png)
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c5653d8-7ed1-4aca-aed7-39d6ee6f4b18/Untitled.png)
-
+![Untitled (4)](https://user-images.githubusercontent.com/67450169/194752403-de301a5c-56a2-42c3-a3c1-0326976d3bd6.png)
 ## 🔸메서드 호출
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b848569c-2c00-452a-a087-25d33e981ad9/Untitled.png)
-
+![Untitled (5)](https://user-images.githubusercontent.com/67450169/194752408-500183bd-31a2-4bd5-a1e2-1cd885dea38a.png)
 ---
 
 ## 🔸함수의 인수
@@ -126,24 +121,19 @@ int main (int argc, const char * argv[])
 
 ## 🔸단순 블록 선언 구문
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fcd1ca79-b3e5-4dac-8be4-2b10dc7d457b/Untitled.png)
-
+![Untitled (6)](https://user-images.githubusercontent.com/67450169/194752414-fdfd172b-479f-4709-a96d-4d5bf01fede7.png)
 - 간단한 블록 구현
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/73b687e5-70c2-4a21-a14b-5e09643ac116/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/32a9334b-c496-4486-9770-12bbc034d129/Untitled.png)
-
+![Untitled (7)](https://user-images.githubusercontent.com/67450169/194752415-6b0eea39-a21e-400c-a721-7ae23c6d8280.png)
+![Untitled (8)](https://user-images.githubusercontent.com/67450169/194752419-8e6cee0e-c968-466e-9590-15593c6fb1db.png)
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6782b598-a02d-454a-a751-5353d4280256/Untitled.png)
-
+Untitled (9)
 ---
 
 ## 🔸 유형 정의를 사용하는 블록
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c8ea8771-43c2-47f4-8cf7-6587c9e83c99/Untitled.png)
-
+![Untitled (10)](https://user-images.githubusercontent.com/67450169/194752427-e01c09e5-ec93-41a4-9397-2df4b4f4a103.png)
 ---
 
 ```objectivec
@@ -211,12 +201,9 @@ int main(int argc, const char * argv[]) {
 
 ## 🔸 숫자
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/effa5b10-f8f9-4c81-8d11-287865f96240/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/baca8a98-1980-4969-a8ef-e6be6f727c28/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cca26739-b97b-4268-9ebf-f598b0cbe0a2/Untitled.png)
-
+![Untitled (11)](https://user-images.githubusercontent.com/67450169/194752435-e065f56f-6ed4-4329-9209-2eb01d4346bb.png)
+![Untitled (12)](https://user-images.githubusercontent.com/67450169/194752438-884ba50f-b59b-4f13-94c6-951079c7b31f.png)
+![Untitled (13)](https://user-images.githubusercontent.com/67450169/194752443-740a9f3e-6180-4e43-a44c-9bb2777f777c.png)
 ---
 
 ```objectivec
@@ -267,12 +254,10 @@ int main(int argc, const char * argv[]) {
 
 ## 🔸 배열
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/135d7a50-b420-4756-a711-f908f8bcdc13/Untitled.png)
-
+![Untitled (14)](https://user-images.githubusercontent.com/67450169/194752448-ffd93136-6e50-4aae-8d82-fb7fc53e9644.png)
 ## 🔸 배열선언
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3084c61b-939a-43a4-b485-5e2a5e4c1025/Untitled.png)
-
+![Untitled (15)](https://user-images.githubusercontent.com/67450169/194752455-c6e9984d-cb13-4e8c-9bf1-1d166705f075.png)
 ---
 
 ```objectivec
@@ -299,8 +284,7 @@ int main(int argc, const char * argv[]) {
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ccac5804-c864-4807-8c72-59eedee69f69/Untitled.png)
-
+![Untitled (16)](https://user-images.githubusercontent.com/67450169/194752457-8f0d83e8-6d37-4761-9133-89789be541db.png)
 ---
 
 ## 🔸 포인터 pointer
@@ -431,24 +415,18 @@ int main(int argc, const char * argv[]) {
 - objective-c 프로그래밍 언어의 문자열 NSString을 사용하여 표현되며 하위 클래스 NSMutableString은 문자열 개체를 생성하는 여러 방법을 제공합니다.
 - 문자열 개체를 만드는 가장 간단한 방법은 objective-c @”…” 구문을 사용하는 것입니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1041065d-d790-4a17-bf54-6d408126e260/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/85196ada-2d96-43c1-967c-b796f3dee710/Untitled.png)
-
+![Untitled (17)](https://user-images.githubusercontent.com/67450169/194752460-1f1d9a42-506e-48d3-8258-0a6dd246a91c.png)
+![Untitled (18)](https://user-images.githubusercontent.com/67450169/194752463-e551e195-dc5c-4172-9b29-058a83c89631.png)
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64560729-5820-4406-87e9-884d5f695545/Untitled.png)
-
+![Untitled (19)](https://user-images.githubusercontent.com/67450169/194752467-883f62bd-be84-4f93-8a9b-6b4fbe3032ca.png)
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36f9961c-278f-454e-a3f3-ad45e2b9cc04/Untitled.png)
-
+![Untitled (20)](https://user-images.githubusercontent.com/67450169/194752472-d3c32cd9-ecf6-4f9a-b5fa-d684c43b479d.png)
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b0e862d3-b5ae-4a73-bd33-f15862c47b94/Untitled.png)
-
+![Untitled (21)](https://user-images.githubusercontent.com/67450169/194752473-1d065468-d8a3-4aed-bbe0-4f80dd81ea7b.png)
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aaa50c25-8c6c-42e1-91e3-deccc83458b5/Untitled.png)
-
+![Untitled (22)](https://user-images.githubusercontent.com/67450169/194752477-926fab98-1aa5-4566-8128-6f276ac32f9c.png)
 ---
