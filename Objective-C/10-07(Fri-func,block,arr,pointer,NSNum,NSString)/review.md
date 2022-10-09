@@ -18,11 +18,9 @@ Functions
 
 ## 🔸메서드 정의
 
-![Untitled (1)](https://user-images.githubusercontent.com/67450169/194752393-fe357e56-54a9-4256-b003-20207637b3c3.png)
-## 🔸메서드 정의
+![Untitled](https://user-images.githubusercontent.com/67450169/194752533-3b010132-9fe2-4b73-8bf1-63b4471b3885.png)## 🔸메서드 정의
 
-![Untitled (2)](https://user-images.githubusercontent.com/67450169/194752396-2df1ebf3-da99-42ae-b129-32ecdc6d4a22.png)
-```objectivec
+![Untitled (1)](https://user-images.githubusercontent.com/67450169/194752535-b87a2351-30f8-447c-b2d8-4819cb858d36.png)```objectivec
 #import <Foundation/Foundation.h>
 
 @interface MyNumber: NSObject
@@ -55,14 +53,11 @@ int main (int argc, const char * argv[])
 
 ## 🔸메서드 선언
 
-![Untitled (3)](https://user-images.githubusercontent.com/67450169/194752401-5a694d4d-88c6-4c8f-9d23-7947661919d8.png)
----
+![Untitled (2)](https://user-images.githubusercontent.com/67450169/194752541-0e3c35bd-c516-4eac-8d12-78de51f5a25d.png)---
 
-![Untitled (4)](https://user-images.githubusercontent.com/67450169/194752403-de301a5c-56a2-42c3-a3c1-0326976d3bd6.png)
-## 🔸메서드 호출
+![Untitled (3)](https://user-images.githubusercontent.com/67450169/194752542-a1189670-74a5-47d5-aba0-f2f1112053db.png)## 🔸메서드 호출
 
-![Untitled (5)](https://user-images.githubusercontent.com/67450169/194752408-500183bd-31a2-4bd5-a1e2-1cd885dea38a.png)
----
+![Untitled (4)](https://user-images.githubusercontent.com/67450169/194752545-49153cbf-3218-4dd8-8d0f-e215c582c73c.png)---
 
 ## 🔸함수의 인수
 
@@ -70,8 +65,7 @@ int main (int argc, const char * argv[])
 - 형식의 매개변수는 함수 내부의 다른 지역 변수처럼 작동하며 함수에 들어갈 때 생성되고 종료할 때 소멸됩니다.
 - 함수를 호출하는 동안 인수를 함수에 전달할 수 있는 두 가지 방법이 있습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e52045a1-ed6b-4f95-989a-4f3ca2a1d842/Untitled.png)
-
+![Untitled (5)](https://user-images.githubusercontent.com/67450169/194752550-b6ed3ec5-85f9-4425-b2bd-a7010e12eb97.png)
 ```objectivec
 #import <Foundation/Foundation.h>
 
@@ -128,8 +122,7 @@ int main (int argc, const char * argv[])
 ![Untitled (8)](https://user-images.githubusercontent.com/67450169/194752419-8e6cee0e-c968-466e-9590-15593c6fb1db.png)
 ---
 
-Untitled (9)
----
+![Untitled (9)](https://user-images.githubusercontent.com/67450169/194752574-f201edc2-04be-44a4-aee4-b3c65aab350a.png)---
 
 ## 🔸 유형 정의를 사용하는 블록
 
