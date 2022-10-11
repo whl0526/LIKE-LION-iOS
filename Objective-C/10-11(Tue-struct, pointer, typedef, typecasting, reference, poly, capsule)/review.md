@@ -1,5 +1,4 @@
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b99b982-2a44-4dd4-a002-023a6b2acb33/Untitled.png)
-
+![Untitled](https://user-images.githubusercontent.com/67450169/195075844-1d5ed9b2-d12e-481f-b55e-f18b9214a9a7.png)
 ## 🔸구조체 정의
 
 구조체 멤버 접근 
