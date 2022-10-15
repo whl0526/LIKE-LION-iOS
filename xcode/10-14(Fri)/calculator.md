@@ -3,8 +3,7 @@
     
     ## 🔸Team10 Calculator App
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/648adae2-07ea-401b-93d2-de9535269b52/Untitled.png)
-    
+<img width="457" alt="Untitled" src="https://user-images.githubusercontent.com/67450169/195961418-7996277c-dcfd-4492-af0e-f1230e447c4f.png">    
     ```swift
     //
     //  ViewController.swift
@@ -145,8 +144,7 @@
 
 ## 🔸if문으로 작성한 calculator
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7800f8a8-cce8-4c2a-8a19-b3e0db50dd25/Untitled.png)
-
+<img width="437" alt="Untitled (1)" src="https://user-images.githubusercontent.com/67450169/195961426-f321b02f-e0d5-4f6b-98da-e6bf09903d17.png">
 ```swift
 //
 //  ViewController.swift
