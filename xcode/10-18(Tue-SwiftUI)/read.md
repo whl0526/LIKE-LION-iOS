@@ -1,7 +1,7 @@
 
 - 10-17,18(월,화)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/98c5c55c-059f-468b-8678-b4f662886af0/Untitled.png)
+![Untitled (2)](https://user-images.githubusercontent.com/67450169/196450057-da0858e1-568c-4b3b-b00b-33d6e8c80d3f.png)
 
 ## 🔸UIKit vs SwiftUI
 
@@ -69,10 +69,8 @@ SwiftUI 장점
     - **뷰**: 레이아웃과 화면을 처리합니다.
     - **컨트롤러**:명령을 모델 뷰 부분으로 라우팅합니다.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/08203fcf-128b-426e-ab7b-fb01ded99f55/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42238f8b-34c6-4beb-bdb3-b979924df5c8/Untitled.png)
-    
+![Untitled (3)](https://user-images.githubusercontent.com/67450169/196450074-876b852d-e542-4155-823e-30ca69ed74e1.png)    
+![Untitled (4)](https://user-images.githubusercontent.com/67450169/196450088-cde12580-e2d7-46f8-89ba-d57c99465b22.png)    
     ---
     
     ## 🔸MVVM의 유행
@@ -80,8 +78,7 @@ SwiftUI 장점
 - ViewModel은 View의 추상화 계층입니다. 뷰모델은 뷰를 알지 못하고 단지 **Notify**만 하게 됩니다. 등록된 뷰가 이를 확인하고 스스로 결과를 반영하여 사용자에게 보여줍니다.
 - MVVM이 MVP에 비해 갖는 장점은 여기에 있습니다. 프레젠터는 UI종속적인 코드를 제거했지만 결국 뷰 자체를 참조해야만 합니다. 그렇기 때문에 플랫폼에 종속적인 구조를 가질 수 밖에 없습니다. 하짐나 뷰모델은 아예 뷰를 참조할 필요가 없이 그냥 자신이 할 일만 하면 됩니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e0cdace-0026-4a5b-a86d-8b4185633691/Untitled.png)
-
+![Untitled (5)](https://user-images.githubusercontent.com/67450169/196450104-db900f81-a435-4619-8092-37aca6208589.png)
 - RxSwift
     - UI이벤트 중심으로 클로저를 활용해 코드를 단순화
     - 바인딩된 데이터를 변경함녀 관련된 화면 요소는 자동으로 갱신
