@@ -1,5 +1,3 @@
-SwiftUI 기반의 iOS 프로그래밍
-chapter 22
 ## 🔸@State Binding
 
 ```swift
@@ -46,6 +44,8 @@ struct ContentView_Previews: PreviewProvider {
 ## 🔸@Team10 Miracle Spinner
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89fff664-38eb-4a22-a9ca-ac7a8cabeb01/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b8f9d71c-650b-4657-8180-ae35fa4fb7b8/Untitled.png)
 
 ```swift
 import SwiftUIimport SwiftUI
