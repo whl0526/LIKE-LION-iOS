@@ -43,10 +43,8 @@ struct ContentView_Previews: PreviewProvider {
 
 ## 🔸@Team10 Miracle Spinner
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89fff664-38eb-4a22-a9ca-ac7a8cabeb01/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b8f9d71c-650b-4657-8180-ae35fa4fb7b8/Untitled.png)
-
+<img width="441" alt="Untitled (6)" src="https://user-images.githubusercontent.com/67450169/196712012-46d07242-df0f-4acb-a1e4-e695a8c3e829.png">
+<img width="464" alt="Untitled (7)" src="https://user-images.githubusercontent.com/67450169/196712026-355a1fc7-7869-48a0-ad42-4d7cfac1b571.png">
 ```swift
 import SwiftUIimport SwiftUI
 
