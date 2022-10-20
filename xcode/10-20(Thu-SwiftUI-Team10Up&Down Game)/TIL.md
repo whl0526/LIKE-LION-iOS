@@ -3,8 +3,7 @@
     
     ## 🔸Team10 MiracleRandomNum (Up & Down Game)
     
-![image](https://user-images.githubusercontent.com/67450169/196967974-da0bc1eb-9a9a-49d4-a0d8-2b8b4cc8d001.png)    
-![image](https://user-images.githubusercontent.com/67450169/196968007-80e41310-be5e-4c60-b73a-b2753a3b58b9.png)    
+<img width="442" alt="Untitled (8)" src="https://user-images.githubusercontent.com/67450169/196968306-f1157e4c-19a5-440c-a216-a9899d9d7d20.png">![image](https://user-images.githubusercontent.com/67450169/196968007-80e41310-be5e-4c60-b73a-b2753a3b58b9.png)    
     ```swift
     //
     //  ContentView.swift
