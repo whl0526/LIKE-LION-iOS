@@ -3,10 +3,8 @@
     
     ## 🔸Team10 MiracleRandomNum (Up & Down Game)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb7d52d5-6dc7-4aad-8631-f4fbebde603e/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26c3bcd2-5753-4e26-90e4-959f25fdb8d5/Untitled.png)
-    
+![image](https://user-images.githubusercontent.com/67450169/196967974-da0bc1eb-9a9a-49d4-a0d8-2b8b4cc8d001.png)    
+![image](https://user-images.githubusercontent.com/67450169/196968007-80e41310-be5e-4c60-b73a-b2753a3b58b9.png)    
     ```swift
     //
     //  ContentView.swift
