@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=“UTF-8”>
+    <title>자소서 글자수 계산기</title>
+</head>
+<body class='container'>
+    <h1>자기소개</h1>
+    <textarea class="form-control" rows="3" id="jasoseol" onkeydown="counter();">저는 인성 문제가 없습니다.</textarea>
+    <span id="count">(500)</span>
+    <script>
+        function counter() {
+            var content = document.getElementById('jasoseol').value;
+            if (content.length > 500) {
+                content = content.substring(0,500);
+                document.getElementById('jasoseol').value = content;
+            }
+            document.getElementById('count').innerHTML = '(' + content.length + '/500)';
+        }
+        counter();
+    </script>
+</body>
+</html>
