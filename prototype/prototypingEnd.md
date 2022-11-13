@@ -2,14 +2,11 @@
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bfdb8d18-9ae1-4172-9da9-4bc86b1102e9/Untitled.png)
-
+<img width="148" alt="Untitled (2)" src="https://user-images.githubusercontent.com/67450169/201527774-ef075aec-9551-496b-8d23-947a2aa4e6c4.png">
 # Dorive!(Do + Drive!)란~
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/043e1607-b764-496a-aa87-c1cec23afa0e/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a517e0f-a5c1-4b66-a08b-f5794b2e8130/Untitled.png)
-
+<img width="857" alt="Untitled (3)" src="https://user-images.githubusercontent.com/67450169/201527777-0aea8a9c-7674-47f3-9422-8d6ebcabc748.png">
+<img width="964" alt="Untitled (4)" src="https://user-images.githubusercontent.com/67450169/201527781-0d04e6d0-db70-4355-8858-f9cf1cfbf2dc.png">
 - ADS
     
     사용자가 현재 위치한 곳 근처 또는 원하는 위치의 드라이브 코스를 추천해줄 것이다. 
@@ -91,10 +88,8 @@
 
 - 기존 화면
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a0deaa3f-3b59-41b7-bf27-05672c7e178a/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/289fa0e7-913c-401c-bd07-4b7fd17b28e1/Untitled.png)
-
+<img width="494" alt="Untitled (5)" src="https://user-images.githubusercontent.com/67450169/201527794-ab85a94d-32f3-4000-a29b-ffff17d3e754.png">
+<img width="494" alt="Untitled (6)" src="https://user-images.githubusercontent.com/67450169/201527799-6f93b1d8-31b5-47d8-9575-ab22ae8ae6df.png">
 ### 홈(Feed) 화면에 표시되는 정보 추가 (소요시간, 코스지도)
 
 - 홈 화면에서
@@ -105,8 +100,7 @@
     
     - 기존 화면
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a97b7f9c-d06c-4a82-964f-0c7f3ca7bb6d/Untitled.png)
-        
+![Untitled (7)](https://user-images.githubusercontent.com/67450169/201527806-f9afe4c1-312a-40aa-9f5f-63b2c178b3a4.png)        
 
 ### **마이페이지 개선**
 
