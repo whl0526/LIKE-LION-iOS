@@ -1,22 +1,13 @@
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/95c558c4-a939-43f7-ac02-68e35c059af0/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eb86786c-f6bc-40de-9628-6d8c0d75b980/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bbab1f0-21e1-4bcd-b911-3068340ca29e/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b82ef5f-0ee4-44b3-9de1-21e730569ef2/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4463b011-d891-4e0e-b55f-9262d74b511f/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e38437c-40d8-49e1-9a09-72311c0f80d5/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90124d55-1dde-429c-b02f-4f6a203d6072/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9f076e0-368b-4cbf-8fc9-848fb2a9c6aa/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e3990f2-5e2d-4ca6-ad1a-e3982d252d08/Untitled.png)
-
+<img width="495" alt="스크린샷 2022-11-18 18 07 08" src="https://user-images.githubusercontent.com/67450169/202666143-56076f68-1cfb-489e-a5c1-5bb2cf5ac146.png">
+<img width="495" alt="스크린샷 2022-11-18 18 07 10" src="https://user-images.githubusercontent.com/67450169/202666186-08801b0e-8745-4f42-8a25-851f3b7c6437.png">
+<img width="495" alt="스크린샷 2022-11-18 18 07 13" src="https://user-images.githubusercontent.com/67450169/202666202-fcc6727c-ee6e-4f8f-af8b-0d998f990682.png">
+<img width="495" alt="스크린샷 2022-11-18 18 07 14" src="https://user-images.githubusercontent.com/67450169/202666222-e7369b32-7b16-4f19-a272-ecc0fa2c070f.png">
+<img width="495" alt="스크린샷 2022-11-18 18 07 18" src="https://user-images.githubusercontent.com/67450169/202666235-8e74c5a4-2690-49f8-bda1-1ba89cb53bdf.png">
+<img width="495" alt="스크린샷 2022-11-18 18 07 25" src="https://user-images.githubusercontent.com/67450169/202666246-5b704786-c68a-4f71-b34f-937f2e170b30.png">
+<img width="495" alt="스크린샷 2022-11-18 18 07 37" src="https://user-images.githubusercontent.com/67450169/202666265-1cbe6171-ce36-4ab3-ab3d-dc6f417e8767.png">
+<img width="495" alt="스크린샷 2022-11-18 18 07 39" src="https://user-images.githubusercontent.com/67450169/202666277-71d17b40-5b3d-4c34-8c99-3b9dd8607f5b.png">
+<img width="495" alt="스크린샷 2022-11-18 18 07 27" src="https://user-images.githubusercontent.com/67450169/202666305-ddd2a53b-8d85-4001-9322-9b70bd74f216.png">
 ```markdown
 **6. 개선 계획 결정부터 코딩까지의 과정 - 원형
 1. 로그인
