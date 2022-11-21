@@ -5,8 +5,6 @@
 ![Untitled (23)](https://user-images.githubusercontent.com/67450169/203008079-4fdb1ec1-63ad-4b36-8935-1eb70f55a0ab.png)
 
 ![Untitled (24)](https://user-images.githubusercontent.com/67450169/203008099-421b71a6-2e4e-4af4-bfcd-2d92fb60ed71.png)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ac83776f-0bd2-442a-8d55-7544e8706d8a/Untitled.png)
-
 ![Untitled (25)](https://user-images.githubusercontent.com/67450169/203008107-f6359ddd-bb06-43f2-8402-b23d81710d05.png)
 ### GROUP
 
